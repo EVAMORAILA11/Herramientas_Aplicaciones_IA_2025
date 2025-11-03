@@ -8,7 +8,7 @@
 3. Herramientas de extracción de datos de diferentes fuentes 
 
 
-`Módulo 1.` **Herramientas para eprocesamiento de datos y análisis de datos**
+`Módulo 1.` **Herramientas para procesamiento de datos y análisis de datos**
 1. Identificación de Datos (repaso) y creación de librería 
 2. Procesamiento y Análisis Exploratorio de Datos (repaso)  
 3. Datos faltantes  
